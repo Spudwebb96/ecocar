@@ -1,20 +1,19 @@
+html{
+    font-family: 'Poppins-regular', sans-serif;
+    font-size: 16px;
+}
 h1{
     font-family:'Poppins-regular', sans-serif;
     font-size: 40px;
     margin-left: 60px;
 }
-h2{
-    margin: -500px 45% 0px 45%;
-    width: 14%;
-}
+
 p{
     display: inline-block;
     height: 300px;
 }
 #brands{
     color: brown;
-    font-family: 'Poppins-regular', sans-serif;
-    font-size: 16px;
     margin-left: 25%;
     margin-top: -70px;
 }
@@ -27,4 +26,11 @@ p + p{
     background-color: #555;
     margin: -250px 60px 0px 60px;
     border: brown solid 2px;
+}
+li{
+    margin:10px 0px 0px 60px;
+}
+h2{
+    margin:0px 42% 0px 42%;
+
 }
